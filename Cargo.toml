@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "hello",
+    "mandelbrot",
+    "jankenpon",
+    "book_code/ch2/ch2-mandelbrot"
+]
